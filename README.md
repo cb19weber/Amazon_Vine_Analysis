@@ -13,6 +13,8 @@ The Amazon Vine program is a paid service available to manufacturers and publish
 <div>
 
 ### Non-Vine Program Results
-
+<div>
+  <p>Non-Vine members received five-star reviews only 46.3% of the time. Or to put that in better perspective, paying for a Vine membership resulted in approximately one additional five-star review, every five reviews. A twenty-percent higher clip for the top-rating is pretty significant. Especially when products are quite similar in function. Perhaps to a tradesman, there is a significant difference by brand of tools. But to the everyday consumer, we can probably make an assumption that the functionality across small tools, like screw-drivers, socket-sets, et cetera is not that large. When product differentiation is small, and the market for a good is closer to a "perfect" market, these ratings could potentially result in a significant uptick in sales for manufacturers.</p>
+</div>
 ## Summary
 
